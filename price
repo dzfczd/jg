@@ -5,7 +5,7 @@
     "products": [
         {
             "id": "918#  ",
-            "price": "￥4760",
+            "price": "420",
             "name":"r121#1.8米裸床+2床头柜",
             "color":["原木色","胡桃色"],
            
@@ -13,21 +13,21 @@
         },
         {
             "id": "919#  ",
-            "price": "￥760起",
+            "price": "760",
             "name":"1.5米裸床",
             
             "src": "http://static.fuwo.com/upload/attachment/1603/30/8a4e318af67911e5965a00163e00254c.jpg.640x1000.jpg"
         },
         {
             "id": "920#  ",
-            "price": "￥1760起",
+            "price": "1760",
              "name":"r125#床头柜",
             
             "src": "http://n1.itc.cn/img8/wb/smccloud/2015/05/29/143286836811920239.JPEG"
         },
         {
             "id": "921#  ",
-            "price": "￥2760起",
+            "price": "2760",
          
             "name":"r132#梳妆台（带妆凳）",
             "src": "http://pic68.nipic.com/file/20150518/189223_190200347000_2.jpg"
